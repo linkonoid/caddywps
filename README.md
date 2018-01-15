@@ -14,4 +14,5 @@ Includes components:
 
 Download archive: http://caddywps.linkonoid.com/download
 Installation - not required: extract archive and just run caddywps.exe!!! To go to the OctoberCMS Admin Panel select the top item of the program menu from the tray (admin/admin) or new installation.
+
 !!!In some cases (if not), use the hostseditor.exe utility (also launched from the tray menu) to register localhost (127.0.0.1) in the hosts file. Successful work!
